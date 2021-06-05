@@ -1,4 +1,4 @@
-name: Linux2
+name: Builder
 on: [push]
 jobs:
   Ubuntu:
