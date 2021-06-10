@@ -1,4 +1,4 @@
-name: Buildpp
+name: mkssh
 on: [push]
 jobs:
   Ubuntu:
