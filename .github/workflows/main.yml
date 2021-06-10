@@ -1,4 +1,4 @@
-name: mkssh
+name: mk233
 on: [push]
 jobs:
   Ubuntu:
