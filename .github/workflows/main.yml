@@ -1,4 +1,4 @@
-name: mk233
+name: mk
 on: [push]
 jobs:
   Ubuntu:
